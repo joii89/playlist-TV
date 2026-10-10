@@ -1,5 +1,25 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkqj7umdXH_TIk0gDo_qsrxnUQlw3X_w-KDlIKD5FoPw&s=10" group-title="", Jakarta vs Everybody
+https://cdndirector.dailymotion.com/cdn/manifest/video/x9qycu6.m3u8?sec=-948BoW33FFeZpBIbvdRFgH9hl3WXalFnarosm9LBmCpM9IMOMiUkWGx2PcUwESIqEzT5GNGa83iAN7UobTsUQFteBPTytiko4sfOz1uYCoTJa-UW8tkIUhCRhodayPL
 
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaD5uSaTuXFHDEI1GJ2tQG4MyVMdcZp4_6_x0-uLZYpw&s=10" group-title="",Jakarta undercover
 https://cdndirector.dailymotion.com/cdn/manifest/video/x9fnd2e.m3u8?sec=iSLWj294P9FBOIWGcArc5pNWEWK1FQSFrzpeqIhQGhmtcMu7cs1iRt-CKJZK22bmM2G6v0gfLNLKzHf2znKkx6opxFN7BR540dtFe6XbkJWNs-lQfgAvQPo1ESDM09CV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWr7VxTe5R7HyE9bsJknI18emjN-EbglQ8UOcgdA7OA&s=10" group-title="", Headshot
+https://cdndirector.dailymotion.com/cdn/manifest/video/x9opmxy.m3u8?sec=wbSkiIzeL8GuwtTYZQbc4qGFdwHTbBEnQjtjmh0YkM7RPJuEZUk9s14JGTIqGCWNE0mShBKtUaRH3IsE_wbP0ceA65Jk6adcFvxewmbmAIVtDYobGw2BAHjWfTZUS7am
+
+#EXTINF:-1 tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-logo="" group-title="",
+
+
+#EXTINF:-1 tvg-logo="" group-title="",
+
+
+
+
+
+
+
+

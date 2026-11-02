@@ -49,6 +49,9 @@ https://pixeldrain.com/api/file/j1HPSh9x?download
 #EXTINF:-1 tvg-id="auto.kereta" group-title="VOD INDO",Kereta
 https://pixeldrain.com/api/file/oCpSqqah?download
 
+#EXTINF:-1 tvg-id="auto.kereta.berdarah" group-title="VOD INDO",Kereta Berdarah
+https://pixeldrain.com/api/file/tVDXN7EM?download
+
 #EXTINF:-1 tvg-id="auto.melukis.luka" group-title="VOD INDO",Melukis Luka
 https://pixeldrain.com/api/file/nXDb1hSE?download
 
@@ -69,8 +72,6 @@ https://pixeldrain.com/api/file/dwi7mgXX?download
 
 #EXTINF:-1 tvg-id="auto.titip.surat.untuk.tuhan" group-title="VOD INDO",Titip Surat Untuk Tuhan
 https://pixeldrain.com/api/file/845PJ3Gb?download
-# "https://pixeldrain.com/api/file/74gipWbg?download
-# "
 
 #EXTINF:-1 tvg-id="auto.kisah.tanah.jawa.pocong.gundul" group-title="VOD INDO",Kisah Tanah Jawa: Pocong Gundul
 https://pixeldrain.com/api/file/xTZuUgAW?download
@@ -80,8 +81,6 @@ https://pixeldrain.com/api/file/smj56rTF?download
 
 #EXTINF:-1 tvg-id="auto.losmen.melati" group-title="VOD INDO",Losmen Melati
 https://pixeldrain.com/api/file/zBP5ULUD?download
-# "https://pixeldrain.com/api/file/zBP5ULUD?download
-# "
 
 #EXTINF:-1 tvg-id="auto.malam.para.jahanam" group-title="VOD INDO",Malam Para Jahanam
 https://pixeldrain.com/api/file/a9Y8CEgx?download
@@ -91,8 +90,6 @@ https://pixeldrain.com/api/file/kzy3h67F?download
 
 #EXTINF:-1 tvg-id="auto.saranjana.kota.ghaib" group-title="VOD INDO",Saranjana: Kota Ghaib
 https://pixeldrain.com/api/file/vUGDTTXc?download
-# "https://pixeldrain.com/api/file/RAo1H7gc?download
-# "
 
 #EXTINF:-1 tvg-id="auto.siksa.neraka" group-title="VOD INDO",Siksa Neraka
 https://pixeldrain.com/api/file/Ya2YKE7h?download

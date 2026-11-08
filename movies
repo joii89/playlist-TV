@@ -122,13 +122,17 @@ https://pixeldrain.com/api/file/ocwVztMT?download
 https://pixeldrain.com/api/file/gu6tTkv4?download
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkqj7umdXH_TIk0gDo_qsrxnUQlw3X_w-KDlIKD5FoPw&s=10" group-title="", Jakarta vs Everybody
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkqj7umdXH_TIk0gDo_qsrxnUQlw3X_w-KDlIKD5FoPw&s=10" group-title="VOD INDO", Jakarta vs Everybody
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaD5uSaTuXFHDEI1GJ2tQG4MyVMdcZp4_6_x0-uLZYpw&s=10" group-title="",Jakarta undercover
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaD5uSaTuXFHDEI1GJ2tQG4MyVMdcZp4_6_x0-uLZYpw&s=10" group-title="VOD INDO",Jakarta undercover
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWr7VxTe5R7HyE9bsJknI18emjN-EbglQ8UOcgdA7OA&s=10" group-title="", Headshot
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWr7VxTe5R7HyE9bsJknI18emjN-EbglQ8UOcgdA7OA&s=10" group-title="VOD INDO", Headshot
 
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2021/01/smFAjVYhrjoVsj655FG3gQRYRxp-128x190.jpg.webp" ,Pirates
+https://seneng.store/v/driveid-117085-terbit21-com-pirates-2005.m3u8
+
+#EXTINF:-1 group-title="VOD INDO" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2019/01/coUpJLjJpSb4l3fJnb7HPdBhRjH-128x190.jpg.webp" ,Tharzan
+https://gdriveplayer.to/hlsplaylist.php?s=bU1jUkZmNEdYNkZSQjJRVVJUSnlHaGprbEh2VC8ySUhKSGx0NWRacUlUUT0%3D&idhls=LzFySm85aGFzMzc1VWJPbHpobWp2N3M4UG14SmR0eTJQK0h6aDNEL1k3QVc0aUdSS0pPdUlUa2pWY1EvQWJQOQ%3D%3D.m3u8" group-title="",
 
 #EXTINF:-1 tvg-logo="" group-title="",
 

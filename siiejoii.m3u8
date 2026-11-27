@@ -36,68 +36,46 @@ https://rplus.inisemar.my.id/rcti.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id@SD" group-title="My Playlist" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png",Trans7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=7&type=drm&token=apistech
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-
+#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TransTV.id@SD" group-title="My Playlist" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png",TransTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=6&type=drm&token=apistech
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GalaxyPremium.id@SD" group-title="My Playlist" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_Galaxy_Premium_ID.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original",Galaxy Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=48&type=drm&token=apistech
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+https://dsgtq5sngxkde.cloudfront.net/galaxyprem/index.m3u8
 
 #EXTINF:-1 tvg-id="ROCKAction.sg@SD" group-title="My Playlist" tvg-logo="https://i.imgur.com/l6lmlqG.png",ROCK Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=93&type=drm&token=apistech
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+https://dsgtq5sngxkde.cloudfront.net/rockaction/index.m3u8
 
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" group-title="My Playlist" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_studiouniversal.png",Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=54&type=drm&token=apistech
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/universal/index.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/MNCTV.png",MNC TV
 #EXTGRP:My Playlist
-#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rplus.inisemar.my.id/mnctv.m3u8
-##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
-##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://linier-mnctv.rctiplus.id/mnctv-sdi-avc1_1000000=17-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTGRP:My Playlist
-#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rplus.inisemar.my.id/gtv.m3u8
-##https://allcutv.rctiplus.id/gtv2023.m3u8
-##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://linier-gtv.rctiplus.id/gtv-sdi-avc1_1000000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/iNews.png",iNews (R+)
 #EXTGRP:My Playlist
-#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rplus.inisemar.my.id/inews.m3u8
-##https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
-##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-##https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/12.m3u8
+https://linier-inews.rctiplus.id/inews-sdi-avc1_1000000=22-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79f8g.png" group-title="My Playlist",HBO 
 http://aflaxtv.xyz:8080/F33848/cbd9779b/306484
@@ -127,30 +105,22 @@ http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
 #EXTINF:-1 tvg-id="CinemachiAction.uk@SD" group-title="My Playlist" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png",Cineedge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=40&type=drm&token=apistech
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+https://dsgtq5sngxkde.cloudfront.net/cineedge/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemachi.uk@SD" group-title="My Playlist" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png",Originals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=36&type=drm&token=apistech
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+https://dsgtq5sngxkde.cloudfront.net/originals/index.m3u8
 
 #EXTINF:-1 tvg-id="CinemachiMax.uk@SD" group-title="My Playlist" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png",Superrix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=39&type=drm&token=apistech
-https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+https://dsgtq5sngxkde.cloudfront.net/superrix/index.m3u8
 
 #EXTINF:-1 tvg-id="CinemachiXtra.uk@SD" group-title="My Playlist" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png",Uniques
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=38&type=drm&token=apistech
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+https://dsgtq5sngxkde.cloudfront.net/uniques/index.m3u8
 
 
 -------------------------------------------Premium Movies----------------------------------------------------------

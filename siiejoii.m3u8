@@ -537,83 +537,214 @@ https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 ------------------------------------------------------Kids------------------------------------------------------------------------
 
 
-=============================Sports==================
+                   ============================== Sports Channels =========================
 
 
-#EXTINF:-1 tvg-id="Motorvision.de@SD" group-title="Sports" tvg-logo="https://pic.dens.tv/tv_183x174/Motorvision+_new%20logo183x174@3x.jpg",Motorvision
+
+#EXTINF:-1 tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-id="beIN Sports 1 Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports Channels",beIN Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-id="beIN Sports 2 Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" grgroup-title="Sports Channels",beIN Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-id="beIN Sports 3 Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports Channels",beIN Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/1PbWWqgKDBDorh525uecKaGZD21FGSoCeR/cenc.mpd
+
+#EXTINF:-1 tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-id="beIN Sports 1 Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports Channels",beIN Sports 1 (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/bein1/index.m3u8
+
+#EXTINF:-1 tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-id="beIN Sports 2 Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports Channels",beIN Sports 2 (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/bein2/index.m3u8
+
+#EXTINF:-1 tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-id="beIN Sports 3 Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports Channels",beIN Sports 3 (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/bein3/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SPOTV" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports Channels",SpoTV (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=119&type=drm&token=KITKATTV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+#EXTINF:-1 tvg-id="SPOTV" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports Channels",SpoTV (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/spotv/index.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV2.id@SD" group-title="Sports Channels" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_spotv2.png",SPOTV 2 (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/spotv2/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Channel.id" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-name="Soccer Channel" tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg" group-title="Sports Channels",SOCCER CHANNEL(Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/soccer/index.m3u8
+
+#EXTINF:-1 tvg-id="Sportstars.id" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-name="Sportstars 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Sports Channels",SPORTSTARS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/ss1/index.m3u8
+
+#EXTINF:-1 tvg-id="Sportstars.2.id" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-name="Sportstars 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Sports Channels",SPORTSTARS 2 (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/ss2/index.m3u8
+
+#EXTINF:-1 tvg-id="FightSports.us@SD" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" group-title="Sports Channels" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_fightsport.png",Fight Sports (Vision+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/fightsports/index.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="Sports Channels",F1 TV
+https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="plex.tv.MotoGP.Channel.plex" tvg-name="" tvg-logo="https://cdn.motorsport.com/images/mgl/YN1RZ4b2/s1000/motogp-logo.jpg" group-title="Sports Channels",MotoGP Channel
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="Sports Channels",FUBO SPORTS 1
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="Sports Channels",FUBO SPORTS 2
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="Sports Channels",TENNIS 2 FHD
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" group-title="Sports Channels",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" group-title="Sports Channels",TNT SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Sports Channels",TSN SPORTS 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Sports Channels",TSN SPORTS 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Sports Channels",TSN SPORTS 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Sports Channels",TSN SPORTS 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Sports Channels",TSN SPORTS 5
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dens.tv/|referrer=https://www.dens.tv/|Origin=https://www.dens.tv|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206|user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTHTTP:{"Referer":"https://www.dens.tv/","referrer":"https://www.dens.tv/","Origin":"https://www.dens.tv","User-Agent":"Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206","user-agent":"Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206"}
+#EXTINF:-1 tvg-id="Motorvision" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://i.imgur.com/WhTcCyi.jpeg" group-title="Sports Channels",MOTORVISION+ (DensTV)
+https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
+
+#EXTINF:-1 tvg-name="" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport1.jpg" group-title="Sports Channels",EUROSPORT 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-name="" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport2.jpg" group-title="Sports Channels",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Motorvision.de@SD" group-title="Sports Channels" tvg-logo="https://pic.dens.tv/tv_183x174/Motorvision+_new%20logo183x174@3x.jpg",Motorvision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8
 
-#EXTINF:-1 tvg-id="TVRISport.id@SD" group-title="Sports" tvg-logo="https://pic.dens.tv/tv_183x174/TVRI_Sport_1.jpg",TVRI Sport
+#EXTINF:-1 tvg-id="TVRISport.id@SD" group-title="Sports Channels" tvg-logo="https://pic.dens.tv/tv_183x174/TVRI_Sport_1.jpg",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h19/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://pic.dens.tv/tv_183x174/wedo-tv-sports183x174@3x.jpg",WeDoTv Sports
+#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://pic.dens.tv/tv_183x174/wedo-tv-sports183x174@3x.jpg",WeDoTv Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h71/wedo_sport.m3u8
 
-
-
--------------------------------------------
-
-
-#EXTINF:-1 tvg-id="OM628999" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/OM628999/3760548149504275-Amasian_TV_Movies___More_SC_logo_color.jpg" group-title="Channell Luar",Amasian TV Movies & More
-https://amg01923-amg01923c171-amgplt0019.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg01923-amg01923c171-amgplt0019/playlist.m3u8?GdprConsent=0&app_bundle=&app_cat=IAB1-22&app_domain=&app_name=&app_store_url=&app_version=%7B%7BAppVersion%7D%7D&coppa=0&device_make=&device_model=&did=&dnt=&gdpr=0&ifa_type=&network_name=tinykernel&us_privacy=1YN-
-#EXTINF:-1 tvg-id="RK436342" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/RK436342/7909906937139544-ACTION_SC_logo_color.jpg" group-title="Channell Luar",Action Movies - Rakuten TV
-https://action-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7860/master.m3u8?ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.gdpr_consent=0&ads.ifa_type=aaid&ads.inv_partner_domain=rakuten.tv&ads.market=us&ads.platform=tcl_channels&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=action-rakuten-tv_us&ads.rtv_content_id=7860&ads.rtv_language=en&channel_id=7860&publishing_platform_id=9&tenant_identifier=rtv
-#EXTINF:-1 tvg-id="RK802499" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/RK802499/7909858586640640-COMEDY_SC_logo_color.jpg" group-title="Channell Luar",Comedy Movies - Rakuten TV
-https://comedy-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7861/master.m3u8?ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.gdpr_consent=0&ads.ifa_type=aaid&ads.inv_partner_domain=rakuten.tv&ads.market=us&ads.platform=tcl_channels&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=comedy-rakuten-tv_us&ads.rtv_content_id=7861&ads.rtv_language=en&channel_id=7861&publishing_platform_id=9&tenant_identifier=rtv
-#EXTINF:-1 tvg-id="XU951908" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU951908/12532459063569062-FilmRiseFreeActionRebrand_SC_logo_color.png" group-title="Channell Luar",FilmRise Action
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814502/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=FilmRiseAction&ads.csid=tcl2_us_filmriseaction_ssai&ads.genre=Action&ads.xumo_channelId=88814502&ads.xumo_channelName=FilmRiseAction&ads.xumo_contentId=260&ads.xumo_contentName=FilmRiseAction&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_streamId=88814502&declaredCC1Language=en&includeAssetTags=true
-#EXTINF:-1 tvg-id="XU524118" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU524118/12532807132246181-FilmRiseScifiRebrand_SC_logo_color.png" group-title="Channell Luar",Filmrise Sci-Fi
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814517/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=FilmriseSciFi&ads.csid=tcl2_us_filmrisescifi_ssai&ads.genre=Horror%252CSci-Fi&ads.xumo_channelId=88814517&ads.xumo_channelName=FilmriseSciFi&ads.xumo_contentId=260&ads.xumo_contentName=FilmriseSciFi&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_streamId=88814517&declaredCC1Language=en&includeAssetTags=true
-#EXTINF:-1 tvg-id="XU383118" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU383118/12532550116100566-FilmRiseFreeMoviesRebrand_SC_logo_color.png" group-title="Channell Luar",FilmRise Free Movies
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814500/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=FilmriseFreeMovies&ads.csid=tcl2_us_filmrisefreemovies_ssai&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads.xumo_channelId=88814500&ads.xumo_channelName=FilmriseFreeMovies&ads.xumo_contentId=260&ads.xumo_contentName=FilmriseFreeMovies&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_streamId=88814500&declaredCC1Language=en&includeAssetTags=true
-#EXTINF:-1 tvg-id="XU499866" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU499866/1711599872109497341-logo_color.png" group-title="Channell Luar",Free Movies
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814534/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=XumoFreeMovies&ads.csid=tcl2_us_xumofreemovies_ssai&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads.xumo_channelId=88814534&ads.xumo_channelName=XumoFreeMovies&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeMovies&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeMovies&ads.xumo_streamId=88814534&declaredCC1Language=en&includeAssetTags=true
-#EXTINF:-1 tvg-id="XU960194" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU960194/1735933053204296554-logo_color.png" group-title="Channell Luar",Free Comedy Movies
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814527/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=XumoFreeComedyMovies&ads.csid=tcl2_us_xumofreecomedymovies_ssai&ads.genre=Comedy&ads.xumo_channelId=88814527&ads.xumo_channelName=XumoFreeComedyMovies&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeComedyMovies&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeComedyMovies&ads.xumo_streamId=88814527&declaredCC1Language=en&includeAssetTags=true
-#EXTINF:-1 tvg-id="XU422772" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU422772/1711599872109416132-logo_color.png" group-title="Channell Luar",Free Action Movies
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814531/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=XumoFreeActionMovies&ads.csid=tcl2_us_xumofreeactionmovies_ssai&ads.genre=Action&ads.xumo_channelId=88814531&ads.xumo_channelName=XumoFreeActionMovies&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeActionMovies&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeActionMovies&ads.xumo_streamId=88814531&declaredCC1Language=en&includeAssetTags=true
-#EXTINF:-1 tvg-id="XU167360" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU167360/1699434029627742796-logo_color.png" group-title="Channell Luar",FlixFling
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814627/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=Flixfling&ads.csid=tcl2_us_flixfling_ssai&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads.xumo_channelId=88814627&ads.xumo_channelName=Flixfling&ads.xumo_contentId=3994&ads.xumo_contentName=Flixfling&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=3994&ads.xumo_providerName=Flixfling&ads.xumo_streamId=88814627&declaredCC1Language=en&includeAssetTags=true
-#EXTINF:-1 tvg-id="XU826017" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU826017/18091977807538440-GreatAmericanRomComs_Logo_Color_512x512_SC_logo_color.jpg" group-title="Channell Luar",Great American RomComs
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814542/hls/playlist.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=GreatAmericanAdventures&ads.csid=tcl2_us_greatamericanadventures_ssai&ads.xumo_channelId=88814542a&ads.xumo_channelName=GreatAmericanAdventures&ads.xumo_contentId=3752&ads.xumo_contentName=GreatAmericanAdventures&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=3752&ads.xumo_providerName=GreatAmericanChannels&ads.xumo_streamId=88814542&declaredCC1Language=en&includeAssetTags=true
-#EXTINF:-1 tvg-id="WU827634" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/WU827634/16973107962470603-Lifetime_Movie_Favorites_SC_logo_color.jpg" group-title="Channell Luar",Lifetime Movie Favorites
-https://e9b6bd7c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0hvbGlkYXlNb3ZpZUZhdm9yaXRlc2J5TGlmZXRpbWVfSExT/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=&ads.coppa=0&ads.custom=&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=&ads.us_privacy=1YN-&ads.wurl_channel=999&ads.wurl_name=HolidayMovieFavoritesbyLifetime
-#EXTINF:-1 tvg-id="FE328250" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/FE328250/11369388503548466-MGM_Presents_Horror_SC_logo_color.png" group-title="Channell Luar",MGM Presents: Horror
-https://linear-1217.frequency.stream/dist/tcltv/1217/hls/master/playlist.m3u8?ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.brand_name=TCL&ads.coppa=0&ads.csid=CSID&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.dnt=DNT&ads.duration=DURATION&ads.gdpr=0&ads.gdpr_consent=GDPR_CONSENT&ads.gpp=GPP&ads.gpp_sid=GPP_SID&ads.ic=IC&ads.ifa_type=IFA_TYPE&ads.lmt=LMT&ads.us_privacy=1YN-
-#EXTINF:-1 tvg-id="FE688274" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/FE688274/10795515506203094-MGMPresents__SC_logo_color.png" group-title="Channell Luar",MGM Presents
-https://linear-1071.frequency.stream/dist/tcltv/1071/hls/master/playlist.m3u8?ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.brand_name=TCL&ads.coppa=0&ads.csid=CSID&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.dnt=DNT&ads.duration=DURATION&ads.gdpr=0&ads.gdpr_consent=GDPR_CONSENT&ads.gpp=GPP&ads.gpp_sid=GPP_SID&ads.ic=IC&ads.ifa_type=IFA_TYPE&ads.lmt=LMT&ads.us_privacy=1YN-
-#EXTINF:-1 tvg-id="FE862440" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/FE862440/10795434895396689-MGM_Presents_Action__SC_logo_color.png" group-title="Channell Luar",MGM Presents Action
-https://linear-1147.frequency.stream/dist/tcltv/1147/hls/master/playlist.m3u8?ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.brand_name=TCL&ads.coppa=0&ads.csid=CSID&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.dnt=DNT&ads.duration=DURATION&ads.gdpr=0&ads.gdpr_consent=GDPR_CONSENT&ads.gpp=GPP&ads.gpp_sid=GPP_SID&ads.ic=IC&ads.ifa_type=IFA_TYPE&ads.lmt=LMT&ads.us_privacy=1YN-
-#EXTINF:-1 tvg-id="AM421902" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/AM421902/6361505996941367-MagnoliaSelects_SC_logo_color.jpg" group-title="Channell Luar",Magnolia Selects
-https://amg00308-amg00308c1-amgplt0093.playout.now3.amagi.tv/playlist/amg00308-amg00308c1-amgplt0093/playlist.m3u8?ap=1&app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&brand_name=TCL&cb=1792117601&channel_name=Magnolia+Selects&coppa=0&device%5Bdid%5D=REPLACE_ME&device%5Bdnt%5D=REPLACE_ME&device_make=REPLACE_ME&device_model=REPLACE_ME&gdpr=0&gdpr_consent=0&gender=REPLACE_ME&genre=REPLACE_ME&ic=IAB1-5&ifa_type=REPLACE_ME&mute=0&network_name=TCL&placement=1&schain=REPLACE_ME&skip=0&url=REPLACE_ME&us_privacy=1YN-
-#EXTINF:-1 tvg-id="FE279348" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/FE279348/1715958079962779509-logo_color.png" group-title="Channell Luar",NLC
-https://linear-758.frequency.stream/dist/tcltv/758/hls/master/playlist.m3u8?ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.brand_name=TCL&ads.coppa=0&ads.csid=CSID&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.dnt=DNT&ads.duration=DURATION&ads.gdpr=0&ads.gdpr_consent=GDPR_CONSENT&ads.gpp=GPP&ads.gpp_sid=GPP_SID&ads.ic=IC&ads.ifa_type=IFA_TYPE&ads.lmt=LMT&ads.us_privacy=1YN-
-#EXTINF:-1 tvg-id="XU748107" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU748107/8430138209951098-1725501934788149444-logo_color.png" group-title="Channell Luar",TCL Horror
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88884638/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=TClHorror&ads.channelId=88884638&ads.channelName=tclhorror_us&ads.csid=tcl2_us_tclhorror_ssai&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads.xumo_channelId=88884638&ads.xumo_channelName=TCLFilmRise&ads.xumo_contentId=4287&ads.xumo_contentName=TCLFilmRise&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=4287&ads.xumo_providerName=TCLFilmRise&ads.xumo_streamId=88884638&declaredCC1Language=en&includeAssetTags=true
-#EXTINF:-1 tvg-id="XU953848" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU953848/8550720424489423-20260623-200941.jpg" group-title="Channell Luar",TCL Action
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88884652/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=tclaction&ads.channelId=88884652&ads.channelName=tclaction_us&ads.csid=tcl2_us_tclaction_ssai&ads.genre=Action&ads.xumo_channelId=88884652&ads.xumo_channelName=TCLAction&ads.xumo_contentId=5&ads.xumo_contentName=TCLHoliday2&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=5&ads.xumo_providerName=TCLHoliday2&ads.xumo_streamId=88884652&declaredCC1Language=en&includeAssetTags=true
-
-#EXTINF:-1 tvg-id="XU042878" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU042878/1731968928019726263-logo_color.png" group-title="Channell Luar",TCL Holiday
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88884554/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=TCLHoliday2&ads.csid=tcl2_us_tclholiday2_ssai&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads.xumo_channelId=88884554&ads.xumo_channelName=TCLHoliday2&ads.xumo_contentId=5&ads.xumo_contentName=TCLHoliday2&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=5&ads.xumo_providerName=TCLHoliday2&ads.xumo_streamId=88884554&declaredCC1Language=en&includeAssetTags=true
-
-#EXTINF:-1 tvg-id="XU513512" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU513512/1739077535027584757-logo_color.png" group-title="Channell Luar",TCL Romance
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814628/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=TCLHoliday&ads.csid=tcl2_us_tclholiday_ssai&ads.genre=Romance&ads.xumo_channelId=88814628&ads.xumo_channelName=TCLHoliday&ads.xumo_contentId=3987&ads.xumo_contentName=TCLHoliday&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=3987&ads.xumo_providerName=TCLTesera&ads.xumo_streamId=88814628&declaredCC1Language=en&includeAssetTags=true
-
-#EXTINF:-1 tvg-id="XU668093" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU668093/1738302248780083047-logo_color.png" group-title="Channell Luar",Universal Movies
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=RottenTomatoes&ads.csid=tcl2_us_rottentomatoesrttv_ssai&ads.genre=Talk%2520Show&ads.xumo_channelId=88814575&ads.xumo_channelName=RottenTomatoes&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoes&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoes&ads.xumo_streamId=88814575&declaredCC1Language=en&includeAssetTags=true
-
-#EXTINF:-1 tvg-id="XU969852" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU969852/1698990312054516780-logo_color.png" group-title="Channell Luar",Universal Monsters
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814625/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=NBCUUniversalMonsters&ads.csid=tcl2_us_nbcuuniversalmonsters_ssai&ads.genre=Horror%252CSci-Fi&ads.xumo_channelId=88814625&ads.xumo_channelName=NBCUUniversalMonsters&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.xumo_streamId=88814625&declaredCC1Language=en&includeAssetTags=true
-
-#EXTINF:-1 tvg-id="CB983843" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/CB983843/1730751012048225472-CB983843_delivery_logo_color.png" group-title="Channell Luar",48 Hours
-https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=0&imafw__fw_us_privacy=1YN-&imafw__fw_vcid2=9f41532a509ecf891cd8d7fe61a2ffb07baa1888&imafw_csid=vcbs_tcltvplus_ctv_googletv_live&is_lat=0
-
-#EXTINF:-1 tvg-id="FE169108" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/FE169108/1719872796686923394-logo_color.png" group-title="Channell Luar",BET x Tyler Perry Comedy
-https://linear-867.frequency.stream/dist/tcltv/867/hls/master/playlist.m3u8?ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.brand_name=TCL&ads.coppa=0&ads.csid=vcbs_tcltvplus_us_ctv_googletv_live_bet&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.dnt=DNT&ads.duration=DURATION&ads.gdpr=0&ads.gdpr_consent=GDPR_CONSENT&ads.gpp=GPP&ads.gpp_sid=GPP_SID&ads.ic=IC&ads.ifa_type=IFA_TYPE&ads.lmt=LMT&ads.prof=520311%3Atcltvplus_live_googletv&ads.us_privacy=1YN-
-
-#EXTINF:-1 tvg-id="WU323124" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/WU323124/1826221980895169-Deal_Zone_SC_logo_color.jpg" group-title="Channell Luar",Deal Zone
-https://ffb62e3d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0RlYWxab25lX0hMUw/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=&ads.coppa=0&ads.custom=&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=&ads.us_privacy=1YN-&ads.wurl_channel=1099&ads.wurl_name=DealZone
 
